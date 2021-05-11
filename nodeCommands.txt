@@ -1,0 +1,11 @@
+npm i -D (Instala solo para desarrollo)
+
+nodemon: Reinicia el servidor cuando hay cambios (Para desarrollo)
+express: es la libreria para hacer API rest en node
+mongoose: es la libreria para manejar mongoDB
+dotenv: permite crear archivos con variables de entorno
+bcryptjs: permite encriptar cadenas
+express-validator: validaciones con sg personalizados
+jsonwebtoken: permite usar JWT para identificar
+
+npm run dev (Inica nodemon)
